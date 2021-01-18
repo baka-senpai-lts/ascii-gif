@@ -14,7 +14,6 @@ ArgsParser::ArgsParser(char** begin, char** end)
 ArgsParser::~ArgsParser()
 {
     this -> args.clear();
-    delete this;
 }
 
 
