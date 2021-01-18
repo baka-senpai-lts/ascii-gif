@@ -1,8 +1,10 @@
 #include <iostream>
+#include "ArgsParser.hpp"
+#include "Animation.hpp"
+#include "Reader.hpp"
+#include "SequenceGenerator.hpp"
 
-int main()
+int main(int argc, char* argv[])
 {
-    std::cout << "Hello, World!\n";
-
     return 0;
 }
