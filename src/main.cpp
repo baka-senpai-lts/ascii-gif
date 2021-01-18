@@ -1,6 +1,6 @@
 #include <iostream>
 #include "ArgsParser.hpp"
-#include "Animation.hpp"
+#include "Animator.hpp"
 #include "Reader.hpp"
 #include "SequenceGenerator.hpp"
 
